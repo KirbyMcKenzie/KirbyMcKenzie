@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```javascript
 {
     name: "Kirby McKenzie",
