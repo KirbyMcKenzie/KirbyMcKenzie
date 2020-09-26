@@ -2,7 +2,7 @@
 {
     name: "Kirby McKenzie",
     location: "Melbourne, Australia",
-    employer: "Arcade",
+    workplace: "Arcade",
     interests: ["Web", "Chatbots", "Natural Language Processing", "UX Design"],
     skills: {
         frontend: ["JavaScript", "TypeScript", "React", "Redux", "HTML", "CSS"],
