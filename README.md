@@ -7,7 +7,6 @@
     skills: {
         frontend: ["JavaScript", "TypeScript", "React", "Redux", "HTML", "CSS"],
         backend: ["C#", ".Net Core", "ASP.NET", "Node.js"],
-        cloud: ["Azure", "Azure Functions", "Azure Storage", "Bot Framework"]
     }
 }
 ```
