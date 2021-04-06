@@ -1,3 +1,3 @@
 ### Kirby's Web Page
 
-![](KirbysWebPage.gif)
+![](loading.gif)
